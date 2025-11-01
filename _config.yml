@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  :                                           # Automatically populates from App Store
 app_name                                  :                                           # Automatically populates from App Store
 app_price                                 :                                           # Automatically populates from App Store
-app_description                           : Track your nutrition effortlessly with AI-powered coaching and smart insights
+app_description                           : Track your nutrition effortlessly with smart insights and seamless health integration
 
 enable_smart_app_banner                   : true
 
@@ -37,28 +37,28 @@ mastodon_link                             :
 # Feature List
 features                                  :
 
-  - title                                 : AI-Powered Nutrition Coach
-    description                           : Meet Maya, your personal AI nutrition coach who provides personalized guidance, answers your questions, and helps you stay on track with your goals.
-    fontawesome_icon_name                 : robot
-    
-  - title                                 : Smart Meal Tracking
-    description                           : Log meals effortlessly with voice input, barcode scanning, or manual entry. Our AI estimates nutrition values to make tracking simple.
-    fontawesome_icon_name                 : utensils
+  - title                                 : Privacy First
+    description                           : Your health data stays private and secure. All syncing happens through your personal iCloud account. No data collection, no third-party access.
+    fontawesome_icon_name                 : lock
 
-  - title                                 : Voice Conversations
-    description                           : Talk to Maya using voice messages. She understands natural language and provides contextual advice about your nutrition journey.
+  - title                                 : Smart Meal Tracking
+    description                           : Log meals effortlessly with voice input, barcode scanning, or manual entry. AI estimates nutrition values to make tracking simple.
+    fontawesome_icon_name                 : utensils
+    
+  - title                                 : Voice Input
+    description                           : Describe your meals naturally using voice. Just say what you ate and let the app do the rest.
     fontawesome_icon_name                 : microphone
 
   - title                                 : HealthKit Integration
     description                           : Seamlessly sync with Apple Health to track weight, body fat, and activity. Get a complete picture of your health journey.
     fontawesome_icon_name                 : heartbeat
 
-  - title                                 : Intelligent Notifications
-    description                           : Receive smart reminders about protein intake, calorie goals, and weekly weigh-ins to help you stay consistent.
-    fontawesome_icon_name                 : bell
+  - title                                 : Barcode Scanner
+    description                           : Scan product barcodes to instantly add foods with accurate nutrition information from the OpenFoodFacts database.
+    fontawesome_icon_name                 : barcode
   
   - title                                 : Advanced Analytics
-    description                           : Visualize your progress with detailed charts and AI-generated insights covering weekly, monthly, and yearly trends.
+    description                           : Visualize your progress with detailed charts covering weekly, monthly, and yearly nutrition trends.
     fontawesome_icon_name                 : chart-line
 
   - title                                 : iCloud Sync
@@ -69,13 +69,13 @@ features                                  :
     description                           : Set customized nutrition goals based on your lifestyle, whether it's weight loss, muscle gain, or maintaining a healthy balance.
     fontawesome_icon_name                 : bullseye
 
+  - title                                 : Intelligent Notifications
+    description                           : Receive smart reminders about protein intake, calorie goals, and weekly weigh-ins to help you stay consistent.
+    fontawesome_icon_name                 : bell
+
   - title                                 : Food Library
     description                           : Build your personal food library with saved meals and favorites for quick logging.
     fontawesome_icon_name                 : book
-
-  - title                                 : Privacy First
-    description                           : Your health data stays private and secure. All syncing happens through your personal iCloud account.
-    fontawesome_icon_name                 : lock
 
 
 
